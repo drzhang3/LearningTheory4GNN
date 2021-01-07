@@ -26,7 +26,7 @@ I am interested in random graph due to its elegant property, which may contribut
 - [ ] [Semi-Supervised Node Classification on Graphs: Markov Random Fields vs. Graph Neural Networks](https://arxiv.org/pdf/2012.13085.pdf). AAAI 2021
 - [ ] [Convergence and Stability of Graph Convolutional Networks on Large Random Graphs](https://papers.nips.cc/paper/2020/file/f5a14d4963acf488e3a24780a84ac96c-Paper.pdf). NeurIPS 2020
 
-### Interesting applications on Graph
+### Interesting Applications on GNN
 
 - [ ] [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/pdf/2002.09405.pdf). ICML 2020
 - [ ] [Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction](https://arxiv.org/pdf/2007.04439.pdf). ICML 2020
