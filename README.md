@@ -30,6 +30,7 @@ I am interested in random graph due to its elegant property, which may contribut
 
 - [ ] [Learning to Simulate Complex Physics with Graph Networks](https://arxiv.org/pdf/2002.09405.pdf). ICML 2020
 - [ ] [Combining Differentiable PDE Solvers and Graph Neural Networks for Fluid Flow Prediction](https://arxiv.org/pdf/2007.04439.pdf). ICML 2020
+- [ ] [Graph Structure of Neural Networks](https://arxiv.org/abs/2007.06559). ICML 2020
 
 ### New Problems
 
